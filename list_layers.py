@@ -1,3 +1,5 @@
+#   list all layers oin a GPKG file
+
 from osgeo import ogr
 
 # Path to your GeoPackage file
