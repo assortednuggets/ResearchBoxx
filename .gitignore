@@ -2,10 +2,10 @@
 *.gpkg
 *.gpkg-shm
 *.gpkg-wal
-*.workspace
+*.code-workspace
+
 # Ignore the build directory
 /NHDPLUS_H_1014_HU4_GPKG
 /nhdplus_env
 
 # Ignore a specific file
-
